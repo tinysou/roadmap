@@ -14,3 +14,5 @@
 | 更好地理解中文 | 中文同义词，模糊查询，搜索建议 | 2015年1月 |
 
 有任何建议，欢迎 [添加 issue](https://github.com/tinysou/roadmap/issues/new) 或者 给我们 [发邮件](mailto:support@tinysou.com)
+
+或者加入我们的微信讨论群 ![wxqr](http://blog.tinysou.com/images/qrcode_wx-4f341c0b.jpeg)
