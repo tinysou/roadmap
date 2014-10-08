@@ -3,7 +3,7 @@
 
 | 任务    | 任务描述    | 计划完成时间 | 状态 |
 | ------ | ------ | ------------------------------------------------------ | ---- |
-| 基础客户端库  | 完成支持多种编程语言的库(python, ruby, node) | 2014年09月 | node(done), ruby(done), python(doing) |
+| 基础客户端库  | 完成支持多种编程语言的库(Python, Ruby, Node.js) | 2014年09月 | Node.js(done), Ruby(done), Python(done) |
 | 移动客户端库  | 完成Android端和iOS端的 | 2014年10月 | android(doing), iOS(todo) |
 | 数据迁移 | 动态修改数据结构 | 2014年10月 | todo |
 | 爬虫优化 | 智能识别标签，去重复，分布式 | 2014年10月 | todo |
