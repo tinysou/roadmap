@@ -17,4 +17,4 @@
 
 或者加入我们的微信讨论群：
 
-![wxqr](http://blog.tinysou.com/images/qrcode_wx-44f6821b.png)
+![wxqr](http://tinysou-cdn.b0.upaiyun.com/assets/images/qrcode_wx-c1f1d11b.png)
