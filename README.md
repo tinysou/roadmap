@@ -15,6 +15,6 @@
 
 有任何建议，欢迎 [添加 issue](https://github.com/tinysou/roadmap/issues/new) 或者 给我们 [发邮件](mailto:support@tinysou.com)
 
-或者加入我们的微信讨论群：
+或者关注我们的微信公众号：
 
-![wxqr](//tinysou-cdn.b0.upaiyun.com/assets/images/qrcode_wx.jpg)
+![wxqr](http://tinysou-cdn.b0.upaiyun.com/assets/images/qrcode_wx.jpg)
